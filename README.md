@@ -5,5 +5,7 @@ The source code for this object-oriented game was created using java cooperative
 
 The following video demonstrates the Can't Stop game, it includes change music functionality, the ability to save at any point, and load it later. 
 
-<video src = "https://github.com/CharanBoddu/CantStop/assets/53311574/5a06294c-654c-45c2-b525-fbd49b18d9a6"></video>
+
+https://github.com/CharanBoddu/CantStop/assets/53311574/05608f56-fdef-4856-abbc-0d2ef3e2fbf6
+
 
